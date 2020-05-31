@@ -8,6 +8,8 @@ https://covid19.spaceappschallenge.org/challenges/covid-challenges/food-thought/
 
 Our project helps the local food supply running with good quality products and low interaction between people. In this way there is no lack of food and society will keep nurtured.
 
+![alt text](https://drive.google.com/file/d/16oOrFtLCLVVyabznG-AxVKZKItMULAVY/view?usp=sharing)
+
 # Code and Examples
 
 Example Climate Productor ChatBot: https://drive.google.com/file/d/15RcZIUFDuVej81u3JlOf9EmDDngJxOnM/view?usp=sharing
