@@ -14,4 +14,4 @@ Example Climate Productor ChatBot: https://drive.google.com/file/d/15RcZIUFDuVej
 
 Example Buyer ChatBot: https://drive.google.com/file/d/1apXJ9uUgWP0mEiFuO8tOlnppdALBlwHJ/view?usp=sharing
 
-POC Presentation: https://docs.google.com/presentation/d/1NnomuiftzEYAwFWrmhY-tUcusb8DUsNnjIMKgFsw4mM/edit?usp=sharing
+POC Presentation: https://drive.google.com/file/d/1G4XXAopJyOhhLEoEc0CDvP-b0dDlQcGH/view?usp=sharing
